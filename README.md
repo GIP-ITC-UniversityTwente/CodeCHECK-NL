@@ -5,9 +5,12 @@ Many research outputs rely on computational methods. Open Science principles ask
 
 **Interested? Reserve 30 May in your agenda, when the first event is going to happen at the TU Delft. More info including how to register coming soon here and on the channels listed below!**
 
-Project team:
 
-Frank Ostermann (University of Twente, lead) @f_ostermann@mstdn.social
+*Project team:*
+
+Frank Ostermann (University of Twente, lead)  
+Mastodon: https://mstdn.social/@f_ostermann  
+LinkedIn: https://www.linkedin.com/in/foost/
 
 Angelina Momin (University of Twente)
 
