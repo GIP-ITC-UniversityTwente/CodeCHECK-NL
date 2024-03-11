@@ -1,17 +1,24 @@
-This repository/website is under construction. It will contain information on the NWO-funded project "CodeCHECKing goes NL" (https://www.nwo.nl/projecten/osf232063): 
+This website is under construction. It will contain information on the NWO-funded project "CodeCHECKing goes NL" (https://www.nwo.nl/projecten/osf232063): 
 
 **CODECHECKing goes NL - strengthening open science through reproducible publications in the Netherlands (CHECK-NL)**
 Many research outputs rely on computational methods. Open Science principles ask for those to be shared and to be reproducible. However, in traditional scientific publishing, computational methods are rarely re-run during review. We aim to check the computational workflows of at least 50 scientific articles for reproducibility, and we aim to reach an agreement with journal editors to establish such a check routinely in their review process. To kickstart both, we will organise roadshows at four locations to bring experienced and new code reviewers, authors, and editors together to implement codechecking in a sustainable way.
 
-**Interested? Reserved 30 May in your agenda! The first event is going to happen at the TU Delft on then. More info including how to register coming soon here and on the channels listed below!**
+**Interested? Reserve 30 May in your agenda, when the first event is going to happen at the TU Delft. More info including how to register coming soon here and on the channels listed below!**
 
 Project team:
 
 Frank Ostermann (University of Twente, lead) @f_ostermann@mstdn.social
+
 Angelina Momin (University of Twente)
+
 Daniela Gawehns (UMCG Groningen, Dutch Reproducibility Network)
+
 Saba Sharma (TU Delft)
+
 Junzi Sun (TU Delft)
+
 Frederique Belliard (TU Delft)
+
 Stephen Eglen (University of Cambridge, Codecheck.org.uk)
+
 Daniel Nüst (TU Dresden, Codecheck.org.uk)
